@@ -1,0 +1,19 @@
+The delimiter should be ("").
+
+Enter something
+this will work.
+t
+h
+i
+s
+
+w
+i
+l
+l
+
+w
+o
+r
+k
+.

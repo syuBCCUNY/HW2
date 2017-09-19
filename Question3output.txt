@@ -1,0 +1,5 @@
+Enter a string: it's high noon noon hgih s'ti
+it's high noon noon hgih s'ti is a palindrome.
+
+Enter a string: hurricane irma
+hurricane irma is not a palindrome.
